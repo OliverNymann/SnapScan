@@ -30,3 +30,7 @@ This project aims to streamline the process of scanning QR codes displayed on yo
 ## Contributing
 
 Contributions are welcome! Feel free to share your ideas for improvement or other features.
+
+## Try it out
+
+To try it out, download the program here [Download](https://github.com/OliverNymann/SnapScan/releases/tag/v1.0.0 "Download here")
